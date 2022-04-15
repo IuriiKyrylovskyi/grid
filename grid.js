@@ -60,10 +60,11 @@ function getResult(grid, word) {
     end
   }})
 }
-// Driver code
+
+// Result calculations
 R = 7;
 C = 6;
-console.log("_____l".split(''))
+
 let grid = [
   "_____l",
   "_c__o_",
